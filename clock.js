@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const form = document.querySelector(".form-clock");
 const h1 = document.getElementById("h1-clock");
 

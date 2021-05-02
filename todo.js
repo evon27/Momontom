@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const form = document.querySelector(".form-todo");
 const input = form.querySelector("input");
 const list = document.querySelector(".list-todo");

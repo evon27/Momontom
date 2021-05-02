@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const form = document.querySelector(".form-name");
 const input = form.querySelector("input");
 const h3 = document.querySelector(".h3-name");

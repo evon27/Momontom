@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const body = document.querySelector("body");
 
 const IMG_NUM = 5;
